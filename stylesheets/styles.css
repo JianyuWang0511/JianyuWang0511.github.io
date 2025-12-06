@@ -30,7 +30,7 @@ h2 {
 }
 
 h2 title {
-  color:#b03b3b;
+  color:#117A42;
   font-weight: 500;
 }
 h3, h4, h5, h6 {
@@ -39,7 +39,7 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#b03b3b;
+  color:#117A42;
   text-decoration:none;
 }
 
@@ -147,12 +147,12 @@ footer {
 .button {
   display:inline-block;
   font-weight:300;
-  color:#b03b3b;
+  color:#117A42;
   padding:0 10px;
   border-radius:2px;
   height:20;
   line-height:20px;
-  border:1px solid #b03b3b;
+  border:1px solid #117A42;
   font-size:11px;
 }
 
@@ -246,7 +246,7 @@ footer {
 }
 
 .icon-grid a {
-  color: #b03b3b;
+  color: #117A42;
   text-decoration: none;
   transition: transform 0.2s ease;
 }
